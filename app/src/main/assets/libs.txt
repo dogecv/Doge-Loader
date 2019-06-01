@@ -1,0 +1,6 @@
+RoadRunner,Acme Robotics,2D mobile robot motion planning library written in Kotlin,v0.3,https://github.com/acmerobotics/road-runner/releases/download/v0.3.0/road-runner-core-0.3.0.jar,roadrunner.jar
+DogeCV,Doge Devs,OpenCV Made Easy!,v2019.3,https://github.com/acmerobotics/road-runner/releases/download/v0.3.0/road-runner-core-0.3.0.jar,dogecv.jar
+SpeedyDoge,Doge Devs,Combined Localization and Pure Persuit Library,v0.1,https://github.com/acmerobotics/road-runner/releases/download/v0.3.0/road-runner-core-0.3.0.jar,speedydoge.jar
+DogeCommander,Doge Devs,Commbased based programming brought to FTC,v2019.1,https://github.com/acmerobotics/road-runner/releases/download/v0.3.0/road-runner-core-0.3.0.jar,dogecommander.jar
+FTC Dashboard,Acme Robotics,Neato React Dashbaord,v0.5,https://github.com/acmerobotics/road-runner/releases/download/v0.3.0/road-runner-core-0.3.0.jar,ftcdash.jar
+RobotLib,Dan,DogeCommander but r/crappyoffbrands,v0.0,https://github.com/acmerobotics/road-runner/releases/download/v0.3.0/road-runner-core-0.3.0.jar,robotlib.jar
